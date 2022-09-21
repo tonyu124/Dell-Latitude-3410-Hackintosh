@@ -63,28 +63,28 @@
 				<key>WiFi_1</key>
 				<dict>
 					<key>password</key>
-					<string>trini909</string>
+					<string>0000000</string>
 					<key>ssid</key>
-					<string>Padilla92-5G</string>
+					<string>PUTYOURWIFIHERE</string>
 				</dict>
 				<key>WiFi_2</key>
 				<dict>
 					<key>password</key>
-					<string>Rockn1983</string>
+					<string>none</string>
 					<key>ssid</key>
-					<string>CellPhoneZone-5G</string>
+					<string>PUTYOURWIFIHERE</string>
 				</dict>
 				<key>WiFi_3</key>
 				<dict>
 					<key>password</key>
-					<string>01271995</string>
+					<string>00000000</string>
 					<key>ssid</key>
-					<string>EDM-All-Day</string>
+					<string>PUTYOURWIFIHERE</string>
 				</dict>
 				<key>WiFi_4</key>
 				<dict>
 					<key>password</key>
-					<string>9utc5c5f</string>
+					<string>00000000</string>
 					<key>ssid</key>
 					<string>CMCC-KtG6</string>
 				</dict>
