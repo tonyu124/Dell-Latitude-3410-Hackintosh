@@ -10,7 +10,7 @@ This is a Opencore build
 * **MacOS Version** Catalina 10.15.7
 
 # What's working?
-* **SMBIOS**: MacBookPro16,2 (Coffee Lake 10th gen)
+* **SMBIOS**: MacBookPro16,2 (Coffee Lake 10th gen) I3 10110u 2.1ghz but system report says 2.6ghz
 * **Audio**: AppleALC.kext alcid=15 NVRAM patch 
 * **Graphics**: Integrated Intel UHD 620 stolemen/stoelmen patch 
 * **Wifi**: Intel Dual Band Wi-Fi 6 AX201 Heliport itlwm.kext modification needed for your network
